@@ -8,7 +8,7 @@
 
 E-commerce has proven to be a big game-changer in the 21st century economy. As one of the largest sales channels, second only to physical retail, e-commerce [is expected](https://www.statista.com/statistics/379046/worldwide-retail-e-commerce-sales/) to be responsible for 6.3 trillion USD in worldwide sales by the year 2024.
 
-E-commerce is, however, a highly competitive business, and building a positive user experience is crucial to retaining customers and improving conversions. As such, it is not uncommon for companies to make a significant investment in optimizing the purchase flow on their e-commerce platforms.
+E-commerce is, however, a highly competitive business, and building a positive user experience is crucial to retaining customers and improving conversions. As such, it is not uncommon for companies to make a significant investment in optimizing the purchase flow on thecir e-commerce platforms.
 
 One of the largest components of this experience is **the shopping cart**.
 
